@@ -1,0 +1,12 @@
+####################
+# Node
+####################
+node_modules
+.env
+
+####################
+# Other
+####################
+.DS_Store
+*~ # Emacs temporary files
+tmp/
